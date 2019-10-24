@@ -3,7 +3,12 @@
 }
 
 .App-logo {
-  height: 40vmin;
+  height: 30vmin;
+}
+.logo {
+  height: 30vmin;
+  color: blue;
+
 }
 
 .App-header {
